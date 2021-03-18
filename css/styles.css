@@ -1,0 +1,13 @@
+.sidebar {
+  float: left;
+  width: 10%;
+  border-right: 2px solid rgba(0, 119, 255, 0.281);
+}
+
+#wikipedia-logo {
+  width: 100%;
+}
+
+.sidebar p {
+  padding-left: 15px;
+}
